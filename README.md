@@ -1,6 +1,8 @@
 <div align='center'>
   
 # Primeiro projeto com Vue.js
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
 Projeto simples com vue.js, desenvolvido com o intuito de aprender os conceitos e a pratica da tecnologia.
 
 </div>
